@@ -1,0 +1,8 @@
+#environment variables
+.env
+Dockerfile
+.dockerignore
+venv/
+
+#key
+gcp-text-to-speech-key.json
